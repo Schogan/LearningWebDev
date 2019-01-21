@@ -1,5 +1,8 @@
 body{
-	background-image: ..\img\Pics\background1.jpg;
+	background-image: url(../img/Pics/background1.jpg);
+	background-size: cover;
+	background-position: center;
+	/*subtle patterns*/
 	color: #F00;
 	font-size: 21px;
 	font-family: sans-serif;
