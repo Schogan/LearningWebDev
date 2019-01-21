@@ -1,5 +1,5 @@
 body{
-	background-color: #000;
+	background-image: ..\img\Pics\background1.jpg;
 	color: #FFF;
 	font-size: 21px;
 	font-family: sans-serif;
@@ -9,12 +9,21 @@ p{
 	color: orange;
 }
 
+.new-class{
+	color: blue;
+}
+
 h1{
 	color: yellow;
 }
 
-div{
-	background-color: gray;
+.first-class{
+	background-color: green;
+	width: 500px;
+	
+}
+.second-class{
+	background-color: purple;
 	width: 500px;
 	
 }
