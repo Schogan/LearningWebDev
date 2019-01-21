@@ -1,6 +1,6 @@
 body{
 	background-image: ..\img\Pics\background1.jpg;
-	color: #FFF;
+	color: #F00;
 	font-size: 21px;
 	font-family: sans-serif;
 }
@@ -31,4 +31,24 @@ span{
 	color: purple;
 	font-size: 30px;
 	font-weight: bold;
+}
+
+
+/*   things in box model */
+/*
+margin
+border
+padding
+*/
+.box{
+	background: green;
+	width: 150px;
+	margin: 100px;
+	/*margin-bottom: 125px;
+	margin-left: 200px;
+	margin-right:175px;*/
+	border-style: groove;
+	border-width: 10px;
+	border-color:blue;
+	padding: 35px;
 }
