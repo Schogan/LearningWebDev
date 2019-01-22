@@ -31,7 +31,7 @@ h1{
 	
 }
 span{
-	color: purple;
+	color: pink;
 	font-size: 30px;
 	font-weight: bold;
 }
@@ -47,8 +47,8 @@ padding
 	background: green;
 	width: 150px;
 	margin: 100px;
-	/*margin-bottom: 125px;
-	margin-left: 200px;
+	margin-bottom: 25px;
+	/*margin-left: 200px;
 	margin-right:175px;*/
 	border-style: groove;
 	border-width: 10px;
